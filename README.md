@@ -4,3 +4,5 @@ This website shows recipes for the ninja food. This is a Net Ninja Tutorial that
 <br>
 <br>
 I added a few other things to make this look a little different from the tutorial. Originally it only showed the home page but I added the ability to open a and see a recipe of the food listed.
+
+![Image](/public/img/Screenshot%202023-06-22%20180600.png)
